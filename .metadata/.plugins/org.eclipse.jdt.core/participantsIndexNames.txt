@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+C:\Users\syntel\Documents\SpringStuff\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\574272757.index
+\NotStocks\src\main\java
+C:\Users\syntel\Documents\SpringStuff\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2049094865.index
+\synteloverflow\src\main\java
+C:\Users\syntel\Documents\SpringStuff\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2053624163.index
+\synteloverflow\src\main\java
+C:\Users\syntel\Documents\SpringStuff\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\499903120.index
+\JavaHut\src\main\java

@@ -1,0 +1,5 @@
+package com.bob.email.config;
+
+public class EmailConfig {
+
+}

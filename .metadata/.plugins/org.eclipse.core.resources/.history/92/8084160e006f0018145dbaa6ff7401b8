@@ -1,0 +1,12 @@
+package com.bob.email;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmailStuffApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmailStuffApplication.class, args);
+	}
+}

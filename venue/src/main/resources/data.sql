@@ -1,0 +1,1 @@
+INSERT INTO venues VALUES(1,"atl","2430",200,"moving",true);

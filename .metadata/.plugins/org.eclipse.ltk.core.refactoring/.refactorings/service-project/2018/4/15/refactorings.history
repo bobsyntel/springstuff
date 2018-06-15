@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;bootcamp.controller.Finance.java&apos; to &apos;FinanceController.java&apos;&#x0D;&#x0A;- Original project: &apos;service-project&apos;&#x0D;&#x0A;- Original element: &apos;bootcamp.controller.Finance.java&apos;&#x0D;&#x0A;- Renamed element: &apos;bootcamp.controller.FinanceController.java&apos;" description="Rename compilation unit &apos;Finance.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;bootcamp.controller{Finance.java" name="FinanceController.java" references="false" stamp="1523389209498" version="1.0"/>
+</session>

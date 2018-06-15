@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="registry"/>
+<aop-project name="dockertry"/>
+<aop-project name="venue"/>
+<aop-project name="address"/>
+<aop-project name="workspace-sts-3.9.2.RELEASE_jamserver"/>
+<aop-project name="gs-spring-boot-docker_complete"/>
+<aop-project name="gs-messaging-gcp-pubsub_complete"/>
+<aop-project name="hotel"/>
+<aop-project name="NotStocks"/>
+<aop-project name="demo"/>
+<aop-project name="lookup-service"/>
+<aop-project name="complete"/>
+<aop-project name="JavaHut"/>
+<aop-project name="test"/>
+<aop-project name="service-project"/>
+<aop-project name="jamserver"/>
+<aop-project name="emailStuff"/>
+<aop-project name="synteloverflow"/>
+<aop-project name="hotelReservation"/>
+<aop-project name="eventur_venue"/>
+</aop-reference-model>
